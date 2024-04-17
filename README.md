@@ -4,7 +4,7 @@ This repository consists of a minimal example that implements simple authenticat
 
 ## Requirements
 
-For development, you will only need Node.js and a node global package, Yarn, installed in your environement.
+For development, you will only need Node.js and a node global package, Yarn, installed in your environment.
 
 ## Install
 
